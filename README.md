@@ -56,7 +56,7 @@
        <p align="center">
          Modern web application built with Laravel framework, featuring responsive design, database integration, and comprehensive testing capabilities.
        </p>
-       <p align="center">
+       <p align="center" style="margin-top: auto;">
          <a href="https://github.com/Dashotz/bacoor">
            <b>📁 View Project</b>
          </a>
@@ -78,14 +78,14 @@
           <img src="https://img.shields.io/badge/🐬%20MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         </a>
       </p>
-      <p align="center">
-        A dynamic e-commerce system developed with PHP, MySQL, and HTML/CSS, offering core tools needed to manage and operate an online store.
-      </p>
-      <p align="center">
-         <a href="https://github.com/Dashotz/ecommerce-f">
-          <b>📁 View Project</b>
-        </a>
-      </p>
+             <p align="center">
+         A dynamic e-commerce system developed with PHP, MySQL, and HTML/CSS, offering core tools needed to manage and operate an online store.
+       </p>
+       <p align="center" style="margin-top: auto;">
+          <a href="https://github.com/Dashotz/ecommerce-f">
+           <b>📁 View Project</b>
+         </a>
+       </p>
     </td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@
        <p align="center">
          RFID-based identification system built with Arduino hardware integration, PHP backend, and modern web interface using HTML, CSS, and JavaScript.
        </p>
-       <p align="center">
+       <p align="center" style="margin-top: auto;">
          <a href="https://github.com/Dashotz/rfid">
            <b>📁 View Project</b>
          </a>
@@ -139,14 +139,14 @@
           <img src="https://img.shields.io/badge/⚡%20MERN-00d4aa?style=for-the-badge" alt="MERN" />
         </a>
       </p>
-      <p align="center">
-        Learning Management System built with modern web technologies including JavaScript, Node.js, Express, and MongoDB.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Dashotz/lms-sttms">
-          <b>📁 View Project</b>
-        </a>
-      </p>
+             <p align="center">
+         Learning Management System built with modern web technologies including JavaScript, Node.js, Express, and MongoDB.
+       </p>
+               <p align="center" style="margin-top: auto;">
+          <a href="https://github.com/Dashotz/lms-sttms">
+            <b>📁 View Project</b>
+          </a>
+        </p>
     </td>
   </tr>
 </table>
