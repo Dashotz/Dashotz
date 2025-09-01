@@ -63,26 +63,26 @@
        </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 E-commerce Platform</h3>
+      <h3 align="center">🛒 ECOMMERCE-F</h3>
       <p align="center">
-        <a href="https://github.com/Dashotz/ecommerce-platform">
+        <a href="https://github.com/Dashotz/ecommerce-f">
           <img src="https://img.shields.io/badge/📝%20Code-6c757d?style=for-the-badge" alt="Code" />
         </a>
-        <a href="https://github.com/Dashotz/ecommerce-platform">
+        <a href="https://github.com/Dashotz/ecommerce-f">
           <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
         </a>
-        <a href="https://github.com/Dashotz/ecommerce-platform">
+        <a href="https://github.com/Dashotz/ecommerce-f">
           <img src="https://img.shields.io/badge/🗄️%20DB-17a2b8?style=for-the-badge" alt="Database" />
         </a>
-        <a href="https://github.com/Dashotz/ecommerce-platform">
+        <a href="https://github.com/Dashotz/ecommerce-f">
           <img src="https://img.shields.io/badge/🐬%20MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         </a>
       </p>
       <p align="center">
-        A robust e-commerce platform built with PHP, MySQL, and HTML/CSS that provides essential features for running an online store.
+        A dynamic e-commerce system developed with PHP, MySQL, and HTML/CSS, offering core tools needed to manage and operate an online store.
       </p>
       <p align="center">
-        <a href="https://github.com/Dashotz/ecommerce-platform">
+         <a href="https://github.com/Dashotz/ecommerce-f">
           <b>📁 View Project</b>
         </a>
       </p>
@@ -153,6 +153,7 @@
     <img src="https://img.shields.io/badge/👀%20VIEW%20ALL%20PROJECTS-007bff?style=for-the-badge" alt="View All Projects" />
   </a>
 </p>
+
 
 
 
