@@ -17,20 +17,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dashotz&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-###
-
-
-###
-
 ## 🚀 Featured Projects
 
 <table>
@@ -283,6 +269,11 @@
   <p><strong>🏠 Hosted on my lifetime hosting account with 99.9% uptime guarantee</strong></p>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
