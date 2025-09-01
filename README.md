@@ -151,10 +151,7 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Dashotz?tab=repositories">
-    <img src="https://img.shields.io/badge/🏆%20TOURNAMENT%20MANAGER-6c757d?style=for-the-badge" alt="Tournament Manager" />
-  </a>
+<p align="center"> 
   <a href="https://github.com/Dashotz">
     <img src="https://img.shields.io/badge/👀%20VIEW%20ALL%20PROJECTS-007bff?style=for-the-badge" alt="View All Projects" />
   </a>
@@ -264,6 +261,7 @@
 <div align="center">
   <p><strong>🏠 Hosted on my lifetime hosting account with 99.9% uptime guarantee</strong></p>
 </div>
+
 
 
 
