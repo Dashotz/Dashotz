@@ -18,7 +18,7 @@
   <img src="https://streak-stats.demolab.com?user=Dashotz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dashotz&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-<<<<<<< HEAD
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph-dark.svg">
@@ -33,3 +33,4 @@
 
 ###
 >>>>>>> 269bfb0ac9d84d3bf1b80a3b3526d57acc9f0d47
+
