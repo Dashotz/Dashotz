@@ -2,7 +2,7 @@ name: Flip Software/Hardware Badges
 
 on:
   schedule:
-    - cron: '*/3 * * * * *'  # Every 3 seconds
+    - cron: '*/2 * * * *'  # Every 2 minutes
   workflow_dispatch:  # Manual trigger
 
 jobs:
@@ -13,39 +13,25 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
       
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
-        
     - name: Flip badges
       run: |
-        import random
-        import re
-        
         # Read README
-        with open('README.md', 'r') as f:
-            content = f.read()
+        content=$(cat README.md)
         
-        # Randomly choose between Software and Hardware
-        if random.choice([True, False]):
-            # Show Software
-            content = re.sub(
-                r'!\[Hardware\]\(https://img\.shields\.io/badge/Hardware-00D4AA\?style=for-the-badge&logo=chip&logoColor=white\)',
-                '![Software](https://img.shields.io/badge/Software-FF6B6B?style=for-the-badge&logo=visual-studio&logoColor=white)',
-                content
-            )
-        else:
-            # Show Hardware
-            content = re.sub(
-                r'!\[Software\]\(https://img\.shields\.io/badge/Software-FF6B6B\?style=for-the-badge&logo=visual-studio&logoColor=white\)',
-                '![Hardware](https://img.shields.io/badge/Hardware-00D4AA?style=for-the-badge&logo=chip&logoColor=white)',
-                content
-            )
+        # Check if currently showing Software or Hardware
+        if echo "$content" | grep -q "Software%2FHardware"; then
+          # Currently showing Software/Hardware, change to just Software
+          content=$(echo "$content" | sed 's/Software%2FHardware/Software/g')
+          content=$(echo "$content" | sed 's/Software%2FHardware-FF6B6B/Software-FF6B6B/g')
+        else
+          # Currently showing Software, change to Hardware
+          content=$(echo "$content" | sed 's/Software/Hardware/g')
+          content=$(echo "$content" | sed 's/visual-studio/chip/g')
+          content=$(echo "$content" | sed 's/FF6B6B/00D4AA/g')
+        fi
         
         # Write back to README
-        with open('README.md', 'w') as f:
-            f.write(content)
+        echo "$content" > README.md
             
     - name: Commit and push changes
       run: |
