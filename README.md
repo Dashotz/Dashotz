@@ -3,55 +3,8 @@
 <div align="center">
 
 ### 🏷️ Skills & Focus:
-![Developer](https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white) ![Full Stack](https://img.shields.io/badge/Full%20Stack-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Technical](https://img.shields.io/badge/Technical-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Software/Hardware](https://img.shields.io/badge/Software%2FHardware-FF6B6B?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=00D4AA) ![Gaming](https://img.shields.io/badge/Gaming-00D4AA?style=for-the-badge&logo=steam&logoColor=white) <span class="mlg-badge">![Lezzz Goooo](https://img.shields.io/badge/Lezzz%20Goooo-FFD700?style=for-the-badge&logo=fire&logoColor=black)</span>
+![Developer](https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white) ![Full Stack](https://img.shields.io/badge/Full%20Stack-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Technical](https://img.shields.io/badge/Technical-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Software/Hardware](https://img.shields.io/badge/Software%2FHardware-FF6B6B?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=00D4AA) ![Gaming](https://img.shields.io/badge/Gaming-00D4AA?style=for-the-badge&logo=steam&logoColor=white) ![Lezzz Goooo](https://img.shields.io/badge/Lezzz%20Goooo-FFD700?style=for-the-badge&logo=fire&logoColor=black)
 
-<style>
-.mlg-badge {
-  position: relative;
-  display: inline-block;
-  animation: mlg-glimmer 2s infinite;
-}
-
-.mlg-badge::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: -100%;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-    90deg,
-    transparent,
-    rgba(255, 255, 255, 0.8),
-    transparent
-  );
-  animation: mlg-shine 2s infinite;
-}
-
-@keyframes mlg-glimmer {
-  0%, 100% { 
-    filter: hue-rotate(0deg) brightness(1) saturate(1);
-    transform: scale(1);
-  }
-  25% { 
-    filter: hue-rotate(90deg) brightness(1.2) saturate(1.5);
-    transform: scale(1.05);
-  }
-  50% { 
-    filter: hue-rotate(180deg) brightness(1.1) saturate(1.3);
-    transform: scale(1.02);
-  }
-  75% { 
-    filter: hue-rotate(270deg) brightness(1.3) saturate(1.6);
-    transform: scale(1.08);
-  }
-}
-
-@keyframes mlg-shine {
-  0% { left: -100%; }
-  100% { left: 100%; }
-}
-</style>
 **Full Stack Developer**  
 **Software and Hardware Specialist**
 
@@ -67,5 +20,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dashotz&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
