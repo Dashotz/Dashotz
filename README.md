@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🏷️ **DEVELOPER** | **FULL STACK** | **TECHNICAL** | **SOFTWARE** | **STATUS** | **ALWAYS LEARNING**
+### 🏷️ **DEVELOPER** | **FULL STACK** | **TECHNICAL** | **SOFTWARE** | **GAMING** | **LEZZZ GOOOO**
 
 **Full Stack Developer**  
 **Software and Hardware Specialist**
