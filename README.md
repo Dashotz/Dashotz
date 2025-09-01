@@ -38,12 +38,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Stove Account Generator</h3>
+      <h3 align="center">🎯 Bacoor Test Webpages</h3>
       <p align="center">
-        <a href="https://github.com/Dashotz/stove-account-generator">
+        <a href="https://github.com/Dashotz/bacoor">
           <img src="https://img.shields.io/badge/📝%20Code-6c757d?style=for-the-badge" alt="Code" />
         </a>
-        <a href="https://github.com/Dashotz/stove-account-generator">
+         <a href="https://github.com/Dashotz/bacoor">
           <img src="https://img.shields.io/badge/🐍%20Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         </a>
         <a href="https://github.com/Dashotz/stove-account-generator">
@@ -153,6 +153,7 @@
     <img src="https://img.shields.io/badge/👀%20VIEW%20ALL%20PROJECTS-007bff?style=for-the-badge" alt="View All Projects" />
   </a>
 </p>
+
 
 
 
