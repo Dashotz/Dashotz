@@ -160,7 +160,7 @@
 ## 🌐 Live Websites (Lifetime Hosting)
 
 <div align="center">
-  <p><strong>🚀 I maintain 4 active websites on my lifetime hosting account!</strong></p>
+  <p><strong>🚀 I maintain 4 test websites on my lifetime hosting account!</strong></p>
 </div>
 
 <table>
@@ -168,13 +168,13 @@
     <td width="50%" valign="top">
       <h3 align="center">🎯 Portfolio Website</h3>
       <p align="center">
-        <a href="https://dashotz.tech">
+        <a href="camerinohub.helioho.st">
           <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
         </a>
-        <a href="https://dashotz.tech">
+        <a href="stthomasmore.helioho.st">
           <img src="https://img.shields.io/badge/🔥%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
         </a>
-        <a href="https://dashotz.tech">
+        <a href="ternatebeachresort.helioho.st">
           <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
         </a>
       </p>
