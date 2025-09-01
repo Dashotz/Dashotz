@@ -166,95 +166,118 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Portfolio Website</h3>
-      <p align="center">
-        <a href="camerinohub.helioho.st">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
-        </a>
-        <a href="stthomasmore.helioho.st">
-          <img src="https://img.shields.io/badge/🔥%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-        </a>
-        <a href="ternatebeachresort.helioho.st">
-          <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        </a>
-      </p>
-      <p align="center">
-        My personal portfolio website showcasing projects, skills, and professional experience.
-      </p>
-      <p align="center">
-        <a href="https://dashotz.tech">
-          <b>🌐 Visit Website</b>
-        </a>
-      </p>
+             <h3 align="center">CamerinoHub</h3>
+       <p align="center">
+         <a href="camerinohub.helioho.st">
+           <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
+         </a>
+         <a href="camerinohub.helioho.st">
+           <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+         </a>
+         <a href="camerinohub.helioho.st">
+           <img src="https://img.shields.io/badge/☕%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+         </a>
+         <a href="camerinohub.helioho.st">
+           <img src="https://img.shields.io/badge/🎨%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+         </a>
+         <a href="camerinohub.helioho.st">
+           <img src="https://img.shields.io/badge/🌐%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+         </a>
+         <a href="camerinohub.helioho.st">
+           <img src="https://img.shields.io/badge/📱%20Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+         </a>
+         <a href="camerinohub.helioho.st">
+           <img src="https://img.shields.io/badge/🗄️%20MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+         </a>
+         <a href="camerinohub.helioho.st">
+           <img src="https://img.shields.io/badge/🚀%20HelioHost-FF6B35?style=for-the-badge" alt="HelioHost" />
+         </a>
+       </p>
+       <p align="center">
+         A portfolio website designed to showcase projects, technical skills, and professional experience, developed as a successful thesis project.
+       </p>
+       <p align="center">
+         <a href="camerinohub.helioho.st">
+           <b>🌐 Visit Website</b>
+         </a>
+       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 E-commerce Store</h3>
-      <p align="center">
-        <a href="https://shop.dashotz.tech">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
-        </a>
-        <a href="https://shop.dashotz.tech">
-          <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        </a>
-        <a href="https://shop.dashotz.tech">
-          <img src="https://img.shields.io/badge/🗄️%20MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        </a>
-      </p>
-      <p align="center">
-        Full-featured online store with shopping cart, user accounts, and payment integration.
-      </p>
-      <p align="center">
-        <a href="https://shop.dashotz.tech">
-          <b>🌐 Visit Website</b>
-        </a>
-      </p>
+             <h3 align="center">🏫 St. Thomas More School</h3>
+       <p align="center">
+         <a href="stthomasmore.helioho.st">
+           <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
+         </a>
+         <a href="stthomasmore.helioho.st">
+           <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+         </a>
+         <a href="stthomasmore.helioho.st">
+           <img src="https://img.shields.io/badge/☕%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+         </a>
+         <a href="stthomasmore.helioho.st">
+           <img src="https://img.shields.io/badge/🎨%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+         </a>
+         <a href="stthomasmore.helioho.st">
+           <img src="https://img.shields.io/badge/🌐%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+         </a>
+         <a href="stthomasmore.helioho.st">
+           <img src="https://img.shields.io/badge/📱%20Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+         </a>
+         <a href="stthomasmore.helioho.st">
+           <img src="https://img.shields.io/badge/🗄️%20MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+         </a>
+         <a href="stthomasmore.helioho.st">
+           <img src="https://img.shields.io/badge/🚀%20HelioHost-FF6B35?style=for-the-badge" alt="HelioHost" />
+         </a>
+       </p>
+       <p align="center">
+         An academic website developed for St. Thomas More School, featuring essential functions for information sharing, student access, and school updates.
+       </p>
+       <p align="center">
+         <a href="stthomasmore.helioho.st">
+           <b>🌐 Visit Website</b>
+         </a>
+       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💻 Business Solutions</h3>
-      <p align="center">
-        <a href="https://business.dashotz.tech">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
-        </a>
-        <a href="https://business.dashotz.tech">
-          <img src="https://img.shields.io/badge/🔥%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-        </a>
-        <a href="https://business.dashotz.tech">
-          <img src="https://img.shields.io/badge/🎨%20Tailwind-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        </a>
-      </p>
-      <p align="center">
-        Business management platform offering CRM, project tracking, and client management tools.
-      </p>
-      <p align="center">
-        <a href="https://business.dashotz.tech">
-          <b>🌐 Visit Website</b>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Learning Hub</h3>
-      <p align="center">
-        <a href="https://learn.dashotz.tech">
-          <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
-        </a>
-        <a href="https://learn.dashotz.tech">
-          <img src="https://img.shields.io/badge/☕%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        </a>
-        <a href="https://learn.dashotz.tech">
-          <img src="https://img.shields.io/badge/⚡%20Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-        </a>
-      </p>
-      <p align="center">
-        Educational platform with courses, tutorials, and interactive learning experiences.
-      </p>
-      <p align="center">
-        <a href="https://learn.dashotz.tech">
-          <b>🌐 Visit Website</b>
-        </a>
-      </p>
-    </td>
+             <h3 align="center">🏖️ Ternate Beach Resort</h3>
+       <p align="center">
+         <a href="ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
+         </a>
+         <a href="ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+         </a>
+         <a href="ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/☕%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+         </a>
+         <a href="ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🎨%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+         </a>
+         <a href="ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🌐%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+         </a>
+         <a href="ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/📱%20Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+         </a>
+         <a href="ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🗄️%20MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+         </a>
+         <a href="ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🚀%20HelioHost-FF6B35?style=for-the-badge" alt="HelioHost" />
+         </a>
+       </p>
+       <p align="center">
+         A dynamic website created for Ternate Beach Resort, designed to showcase amenities, provide resort information, and assist guests with inquiries and bookings.
+       </p>
+       <p align="center">
+         <a href="ternatebeachresort.helioho.st">
+           <b>🌐 Visit Website</b>
+         </a>
+       </p>
+    </td>    
   </tr>
 </table>
 
