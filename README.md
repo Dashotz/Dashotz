@@ -140,7 +140,7 @@
              <p align="center">
          Learning Management System built with modern web technologies including JavaScript, Node.js, Express, and MongoDB.
        </p>
-               <p align="center" style="margin-top: auto;">
+                       <p align="center" style="margin-top: auto;">
           <a href="https://github.com/Dashotz/lms-sttms">
             <b>📁 View Project</b>
           </a>
@@ -238,8 +238,8 @@
         </p>
     </td>
   </tr>
-     <tr>
-     <td width="50%" valign="top">
+        <tr>
+     <td colspan="2" align="center">
        <h3 align="center">Ternate Beach Resort</h3>
        <p align="center">
          <a href="https://ternatebeachresort.helioho.st">
@@ -275,8 +275,6 @@
            <b>🌐 Visit Website</b>
          </a>
        </p>
-     </td>
-     <td width="50%" valign="top">
      </td>
    </tr>
 </table>
