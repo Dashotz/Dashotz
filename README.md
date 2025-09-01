@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dashotz
+<h1 align="center">Hi 👋, I'm Dashotz</h1>
 
 <div align="center">
   <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin: 16px 0;">
