@@ -90,29 +90,35 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💻 RFID</h3>
-      <p align="center">
-        <a href="https://github.com/Dashotz/rfid">
-          <img src="https://img.shields.io/badge/📝%20Code-6c757d?style=for-the-badge" alt="Code" />
-        </a>
-        <a href="https://github.com/Dashotz/rfid">
-          <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        </a>
-        <a href="https://github.com/Dashotz/rfid">
-          <img src="https://img.shields.io/badge/🔧%20Tech-6f42c1?style=for-the-badge" alt="Tech" />
-        </a>
-        <a href="https://github.com/Dashotz/rfid">
-          <img src="https://img.shields.io/badge/🔌%20WebSocket-fd7e14?style=for-the-badge" alt="WebSocket" />
-        </a>
-      </p>
-      <p align="center">
-        Secure remote desktop management solution for controlling computers remotely using PHP and WebSocket technology.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Dashotz/rfid">
-          <b>📁 View Project</b>
-        </a>
-      </p>
+             <h3 align="center">💻 RFID</h3>
+       <p align="center">
+         <a href="https://github.com/Dashotz/rfid">
+           <img src="https://img.shields.io/badge/📝%20Code-6c757d?style=for-the-badge" alt="Code" />
+         </a>
+         <a href="https://github.com/Dashotz/rfid">
+           <img src="https://img.shields.io/badge/🔌%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+         </a>
+         <a href="https://github.com/Dashotz/rfid">
+           <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+         </a>
+         <a href="https://github.com/Dashotz/rfid">
+           <img src="https://img.shields.io/badge/🌐%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+         </a>
+         <a href="https://github.com/Dashotz/rfid">
+           <img src="https://img.shields.io/badge/🎨%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+         </a>
+         <a href="https://github.com/Dashotz/rfid">
+           <img src="https://img.shields.io/badge/☕%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+         </a>
+       </p>
+       <p align="center">
+         RFID-based identification system built with Arduino hardware integration, PHP backend, and modern web interface using HTML, CSS, and JavaScript.
+       </p>
+       <p align="center">
+         <a href="https://github.com/Dashotz/rfid">
+           <b>📁 View Project</b>
+         </a>
+       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎓 LMS-STTMS</h3>
