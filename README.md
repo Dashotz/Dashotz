@@ -31,6 +31,5 @@
     flippingText.textContent = texts[currentIndex];
   }
   
-  // Flip text every 3 seconds
   setInterval(flipText, 3000);
 </script>
