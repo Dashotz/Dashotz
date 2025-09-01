@@ -1,0 +1,56 @@
+name: Flip Software/Hardware Badges
+
+on:
+  schedule:
+    - cron: '*/3 * * * * *'  # Every 3 seconds
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  flip-badges:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Flip badges
+      run: |
+        import random
+        import re
+        
+        # Read README
+        with open('README.md', 'r') as f:
+            content = f.read()
+        
+        # Randomly choose between Software and Hardware
+        if random.choice([True, False]):
+            # Show Software
+            content = re.sub(
+                r'!\[Hardware\]\(https://img\.shields\.io/badge/Hardware-00D4AA\?style=for-the-badge&logo=chip&logoColor=white\)',
+                '![Software](https://img.shields.io/badge/Software-FF6B6B?style=for-the-badge&logo=visual-studio&logoColor=white)',
+                content
+            )
+        else:
+            # Show Hardware
+            content = re.sub(
+                r'!\[Software\]\(https://img\.shields\.io/badge/Software-FF6B6B\?style=for-the-badge&logo=visual-studio&logoColor=white\)',
+                '![Hardware](https://img.shields.io/badge/Hardware-00D4AA?style=for-the-badge&logo=chip&logoColor=white)',
+                content
+            )
+        
+        # Write back to README
+        with open('README.md', 'w') as f:
+            f.write(content)
+            
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Flip Software/Hardware badge"
+        git push
