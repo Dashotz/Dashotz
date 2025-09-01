@@ -11,8 +11,7 @@
   </div>
   
   <h3 style="color: #007bff; margin: 16px 0;">Full Stack Developer</h3>
-</div>
-<h3 style="color: #007bff; margin: 16px 0;">Software and Hardware Specialist</h3>
+  <h3 style="color: #007bff; margin: 16px 0;">Software and Hardware Specialist</h3>
 </div>
 ---
 
@@ -56,6 +55,5 @@ const dashotz = {
     flippingText.textContent = texts[currentIndex];
   }
   
-  // Flip text every 3 seconds
   setInterval(flipText, 3000);
 </script>
