@@ -3,7 +3,7 @@
 <div align="center">
 
 ### 🏷️ Skills & Focus:
-![Developer](https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white) ![Full Stack](https://img.shields.io/badge/Full%20Stack-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Technical](https://img.shields.io/badge/Technical-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Software/Hardware](https://img.shields.io/badge/Software%2FHardware-FF6B6B?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=00D4AA) ![AI](https://img.shields.io/badge/Gaming-00D4AA?style=for-the-badge&logo=steam&logoColor=white) ![Enthusiast](https://img.shields.io/badge/Lezzz%20Goooo-FFD700?style=for-the-badge&logo=fire&logoColor=black)
+![Developer](https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white) ![Full Stack](https://img.shields.io/badge/Full%20Stack-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Technical](https://img.shields.io/badge/Technical-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Software/Hardware](https://img.shields.io/badge/Software%2FHardware-FF6B6B?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=00D4AA) ![AI](https://img.shields.io/badge/AI-00D4AA?style=for-the-badge&logo=openai&logoColor=white) ![Enthusiast](https://img.shields.io/badge/Enthusiast-FFD700?style=for-the-badge&logo=fire&logoColor=black)
 
 
 
@@ -202,7 +202,7 @@
         </p>
     </td>
     <td width="50%" valign="top">
-             <h3 align="center">🏫 St. Thomas More School</h3>
+                           <h3 align="center">St. Thomas More School</h3>
        <p align="center">
                    <a href="https://stthomasmore.helioho.st">
             <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
@@ -241,7 +241,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-             <h3 align="center">🏖️ Ternate Beach Resort</h3>
+                           <h3 align="center">Ternate Beach Resort</h3>
        <p align="center">
                    <a href="https://ternatebeachresort.helioho.st">
             <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
