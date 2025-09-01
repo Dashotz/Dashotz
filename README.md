@@ -37,7 +37,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎯 Stove Account Generator</h3>
       <p align="center">
         <a href="https://github.com/Dashotz/stove-account-generator">
@@ -62,7 +62,7 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🛒 E-commerce Platform</h3>
       <p align="center">
         <a href="https://github.com/Dashotz/ecommerce-platform">
@@ -89,7 +89,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">💻 Remote PC Manager</h3>
       <p align="center">
         <a href="https://github.com/Dashotz/remote-pc-manager">
@@ -114,7 +114,7 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎓 LMS-STTMS</h3>
       <p align="center">
         <a href="https://github.com/Dashotz/lms-sttms">
