@@ -90,18 +90,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💻 Remote PC Manager</h3>
+      <h3 align="center">💻 RFID</h3>
       <p align="center">
-        <a href="https://github.com/Dashotz/remote-pc-manager">
+        <a href="https://github.com/Dashotz/rfid">
           <img src="https://img.shields.io/badge/📝%20Code-6c757d?style=for-the-badge" alt="Code" />
         </a>
-        <a href="https://github.com/Dashotz/remote-pc-manager">
+        <a href="https://github.com/Dashotz/rfid">
           <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
         </a>
-        <a href="https://github.com/Dashotz/remote-pc-manager">
+        <a href="https://github.com/Dashotz/rfid">
           <img src="https://img.shields.io/badge/🔧%20Tech-6f42c1?style=for-the-badge" alt="Tech" />
         </a>
-        <a href="https://github.com/Dashotz/remote-pc-manager">
+        <a href="https://github.com/Dashotz/rfid">
           <img src="https://img.shields.io/badge/🔌%20WebSocket-fd7e14?style=for-the-badge" alt="WebSocket" />
         </a>
       </p>
@@ -109,7 +109,7 @@
         Secure remote desktop management solution for controlling computers remotely using PHP and WebSocket technology.
       </p>
       <p align="center">
-        <a href="https://github.com/Dashotz/remote-pc-manager">
+        <a href="https://github.com/Dashotz/rfid">
           <b>📁 View Project</b>
         </a>
       </p>
@@ -153,6 +153,7 @@
     <img src="https://img.shields.io/badge/👀%20VIEW%20ALL%20PROJECTS-007bff?style=for-the-badge" alt="View All Projects" />
   </a>
 </p>
+
 
 
 
