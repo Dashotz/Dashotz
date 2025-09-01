@@ -38,29 +38,29 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Bacoor Test Webpages</h3>
-      <p align="center">
-        <a href="https://github.com/Dashotz/bacoor">
-          <img src="https://img.shields.io/badge/📝%20Code-6c757d?style=for-the-badge" alt="Code" />
-        </a>
+             <h3 align="center">🎯 Bacoor Test Webpages</h3>
+       <p align="center">
          <a href="https://github.com/Dashotz/bacoor">
-          <img src="https://img.shields.io/badge/🐍%20Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        </a>
-        <a href="https://github.com/Dashotz/stove-account-generator">
-          <img src="https://img.shields.io/badge/⚙️%20Tools-495057?style=for-the-badge" alt="Tools" />
-        </a>
-        <a href="https://github.com/Dashotz/stove-account-generator">
-          <img src="https://img.shields.io/badge/🤖%20Automation-28a745?style=for-the-badge" alt="Automation" />
-        </a>
-      </p>
-      <p align="center">
-        Python GUI application for automated account generation with management features. Built with modern UI supporting dark/light themes.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Dashotz/stove-account-generator">
-          <b>📁 View Project</b>
-        </a>
-      </p>
+           <img src="https://img.shields.io/badge/📝%20Code-6c757d?style=for-the-badge" alt="Code" />
+         </a>
+         <a href="https://github.com/Dashotz/bacoor">
+           <img src="https://img.shields.io/badge/🔥%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+         </a>
+         <a href="https://github.com/Dashotz/bacoor">
+           <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+         </a>
+         <a href="https://github.com/Dashotz/bacoor">
+           <img src="https://img.shields.io/badge/🗄️%20MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+         </a>
+       </p>
+       <p align="center">
+         Modern web application built with Laravel framework, featuring responsive design, database integration, and comprehensive testing capabilities.
+       </p>
+       <p align="center">
+         <a href="https://github.com/Dashotz/bacoor">
+           <b>📁 View Project</b>
+         </a>
+       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛒 E-commerce Platform</h3>
