@@ -158,7 +158,7 @@
 ## 🌐 Live Websites (Lifetime Hosting)
 
 <div align="center">
-  <p><strong>🚀 I maintain 4 test websites on my lifetime hosting account!</strong></p>
+  <p><strong>🚀 I maintain 3 test websites on my lifetime hosting account!</strong></p>
 </div>
 
 <table>
@@ -238,45 +238,47 @@
         </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-                           <h3 align="center">Ternate Beach Resort</h3>
+     <tr>
+     <td width="50%" valign="top">
+       <h3 align="center">Ternate Beach Resort</h3>
        <p align="center">
-                   <a href="https://ternatebeachresort.helioho.st">
-            <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
-          </a>
-          <a href="https://ternatebeachresort.helioho.st">
-            <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-          </a>
-          <a href="https://ternatebeachresort.helioho.st">
-            <img src="https://img.shields.io/badge/☕%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-          </a>
-          <a href="https://ternatebeachresort.helioho.st">
-            <img src="https://img.shields.io/badge/🎨%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-          </a>
-          <a href="https://ternatebeachresort.helioho.st">
-            <img src="https://img.shields.io/badge/🌐%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-          </a>
-          <a href="https://ternatebeachresort.helioho.st">
-            <img src="https://img.shields.io/badge/📱%20Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-          </a>
-          <a href="https://ternatebeachresort.helioho.st">
-            <img src="https://img.shields.io/badge/🗄️%20MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-          </a>
-          <a href="https://ternatebeachresort.helioho.st">
-            <img src="https://img.shields.io/badge/🚀%20HelioHost-FF6B35?style=for-the-badge" alt="HelioHost" />
-          </a>
-        </p>
-        <p align="center">
-          A dynamic website created for Ternate Beach Resort, designed to showcase amenities, provide resort information, and assist guests with inquiries and bookings.
-        </p>
-        <p align="center">
-          <a href="https://ternatebeachresort.helioho.st">
-            <b>🌐 Visit Website</b>
-          </a>
-        </p>
-    </td>    
-  </tr>
+         <a href="https://ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🌐%20Live%20Website-00d4aa?style=for-the-badge" alt="Live Website" />
+         </a>
+         <a href="https://ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🐘%20PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+         </a>
+         <a href="https://ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/☕%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+         </a>
+         <a href="https://ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🎨%20CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+         </a>
+         <a href="https://ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🌐%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+         </a>
+         <a href="https://ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/📱%20Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+         </a>
+         <a href="https://ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🗄️%20MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+         </a>
+         <a href="https://ternatebeachresort.helioho.st">
+           <img src="https://img.shields.io/badge/🚀%20HelioHost-FF6B35?style=for-the-badge" alt="HelioHost" />
+         </a>
+       </p>
+       <p align="center">
+         A dynamic website created for Ternate Beach Resort, designed to showcase amenities, provide resort information, and assist guests with inquiries and bookings.
+       </p>
+       <p align="center">
+         <a href="https://ternatebeachresort.helioho.st">
+           <b>🌐 Visit Website</b>
+         </a>
+       </p>
+     </td>
+     <td width="50%" valign="top">
+     </td>
+   </tr>
 </table>
 
 <div align="center">
