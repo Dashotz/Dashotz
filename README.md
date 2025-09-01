@@ -1,86 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dashotz</h1>
 
 <div align="center">
-  <div class="flip-container">
-    <div class="flipper" id="flipper">
-      <div class="flip-front">
-        <h2>🚀 Full Stack Developer</h2>
-        <p>Building amazing web experiences</p>
-      </div>
-      <div class="flip-back">
-        <h2>💻 Software Specialist</h2>
-        <p>Hardware & Software solutions</p>
-      </div>
-      <div class="flip-top">
-        <h2>🎮 Gaming Enthusiast</h2>
-        <p>Level up your experience</p>
-      </div>
-      <div class="flip-bottom">
-        <h2>🔧 Technical Expert</h2>
-        <p>Problem solver extraordinaire</p>
-      </div>
-    </div>
-  </div>
-</div>
 
-<style>
-.flip-container {
-  perspective: 1000px;
-  width: 300px;
-  height: 150px;
-  margin: 20px auto;
-}
+### 🏷️ Skills & Focus:
+![Developer](https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white) ![Full Stack](https://img.shields.io/badge/Full%20Stack-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Technical](https://img.shields.io/badge/Technical-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Software/Hardware](https://img.shields.io/badge/Software%2FHardware-FF6B6B?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=00D4AA) ![Gaming](https://img.shields.io/badge/Gaming-00D4AA?style=for-the-badge&logo=steam&logoColor=white) ![Lezzz Goooo](https://img.shields.io/badge/Lezzz%20Goooo-FFD700?style=for-the-badge&logo=fire&logoColor=black)
 
-.flipper {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  transform-style: preserve-3d;
-  animation: flip 12s infinite linear;
-}
-
-.flip-front, .flip-back, .flip-top, .flip-bottom {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border-radius: 15px;
-  color: white;
-  text-align: center;
-  padding: 20px;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
-}
-
-.flip-front { transform: rotateY(0deg) translateZ(75px); }
-.flip-back { transform: rotateY(180deg) translateZ(75px); }
-.flip-top { transform: rotateX(90deg) translateZ(75px); }
-.flip-bottom { transform: rotateX(-90deg) translateZ(75px); }
-
-@keyframes flip {
-  0% { transform: rotateY(0deg) rotateX(0deg); }
-  25% { transform: rotateY(180deg) rotateX(0deg); }
-  50% { transform: rotateY(180deg) rotateX(90deg); }
-  75% { transform: rotateY(180deg) rotateX(-90deg); }
-  100% { transform: rotateY(0deg) rotateX(0deg); }
-}
-
-.flip-front h2, .flip-back h2, .flip-top h2, .flip-bottom h2 {
-  margin: 0 0 10px 0;
-  font-size: 1.5em;
-  font-weight: bold;
-}
-
-.flip-front p, .flip-back p, .flip-top p, .flip-bottom p {
-  margin: 0;
-  font-size: 1em;
-  opacity: 0.9;
-}
-</style>
+**Full Stack Developer**  
+**Software and Hardware Specialist**
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dashotz14@gmail.com) 
@@ -94,5 +20,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dashotz&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
