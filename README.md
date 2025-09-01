@@ -6,11 +6,6 @@
 
 ![Developer](https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white) ![Full Stack](https://img.shields.io/badge/Full%20Stack-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Technical](https://img.shields.io/badge/Technical-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Software/Hardware](https://img.shields.io/badge/Software%2FHardware-FF6B6B?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=00D4AA) ![AI](https://img.shields.io/badge/AI-00D4AA?style=for-the-badge&logo=openai&logoColor=white) ![Enthusiast](https://img.shields.io/badge/Enthusiast-FFD700?style=for-the-badge&logo=fire&logoColor=black)
 
-![Developer](https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white) ![Full Stack](https://img.shields.io/badge/Full%20Stack-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Technical](https://img.shields.io/badge/Technical-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Software/Hardware](https://img.shields.io/badge/Software%2FHardware-FF6B6B?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=00D4AA) ![AI](https://img.shields.io/badge/AI-00D4AA?style=for-the-badge&logo=steam&logoColor=white) ![Enthusiast](https://img.shields.io/badge/Enthusiast-FFD700?style=for-the-badge&logo=fire&logoColor=black)
-
-
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dashotz14@gmail.com) 
 
@@ -287,6 +282,7 @@
 <div align="center">
   <p><strong>🏠 Hosted on my lifetime hosting account with 99.9% uptime guarantee</strong></p>
 </div>
+
 
 
 
