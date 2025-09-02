@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### 🏷️ Skills & Focus:
-
 ![Developer](https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=github&logoColor=white) ![Full Stack](https://img.shields.io/badge/Full%20Stack-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Technical](https://img.shields.io/badge/Technical-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Software/Hardware](https://img.shields.io/badge/Software%2FHardware-FF6B6B?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=00D4AA) ![AI](https://img.shields.io/badge/AI-007ACC?style=for-the-badge&logo=openai&logoColor=white) ![Enthusiast](https://img.shields.io/badge/Enthusiast-FFD700?style=for-the-badge&logo=fire&logoColor=black)
 
 ## 🌐 Socials:
@@ -274,6 +272,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 
