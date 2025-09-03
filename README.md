@@ -15,8 +15,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dashotz&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-## 🚀 Featured Projects
 
+
+## 🚀 Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -272,6 +273,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 
