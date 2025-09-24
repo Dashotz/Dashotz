@@ -12,7 +12,9 @@
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Dashotz&theme=radical)](https://git.io/streak-stats)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dashotz&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ## 🚀 Featured Projects
 <table>
@@ -270,6 +272,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 
