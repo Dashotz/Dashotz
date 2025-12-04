@@ -252,7 +252,7 @@
           A modern weather application providing real-time weather forecasts, interactive maps, and detailed meteorological data with a clean and intuitive user interface.
         </p>
         <p align="center">
-          <a href="#">
+          <a href="https://dashotz.github.io/weather/">
             <b>🌐 Visit Website</b>
           </a>
         </p>
@@ -286,7 +286,7 @@
           Comprehensive social media management platform for scheduling posts, analyzing engagement metrics, and managing multiple social media accounts from a single dashboard.
         </p>
         <p align="center">
-          <a href="#">
+          <a href="https://dashotz.github.io/Social_Media_Dashboard/">
             <b>🌐 Visit Website</b>
           </a>
         </p>
