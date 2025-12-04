@@ -142,7 +142,7 @@
 ## 🌐 Live Websites (Lifetime Hosting)
 
 <div align="center">
-  <p><strong>🚀 I maintain 3 test websites on my lifetime hosting account!</strong></p>
+  <p><strong>🚀 I maintain 2 test websites on my lifetime hosting account!</strong></p>
 </div>
 
 <table>
@@ -233,3 +233,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dashotz/Dashotz/output/pacman-contribution-graph.svg">
 </picture>
+
