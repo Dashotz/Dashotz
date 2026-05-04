@@ -176,7 +176,7 @@
           </a>
         </p>
         <p align="center">
-          A portfolio website designed to showcase projects, technical skills, and professional experience, developed as a successful thesis project.
+          A comprehensive web-based Learning Management System designed to streamline educational processes and enhance role-based school operations, developed as a robust, pure PHP-based solution for Gov D.M. Camerino High School.
         </p>
         <p align="center">
           <a href="https://camerinohub.helioho.st">
